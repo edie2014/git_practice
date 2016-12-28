@@ -20,6 +20,7 @@ Branches allow us to experiment with changes we are still not sure we would like
 How do the diagrams help you visualize the branch structure?
 
 As branches begin to multiply, it can be hard to mentally keep track of all of them. Diagrams are a good way of visualising the ramifications that branch off the master branch, the points where they articulate with the master, and the commits made on each branch independently from the others.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
