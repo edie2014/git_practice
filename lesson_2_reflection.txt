@@ -24,5 +24,7 @@ As branches begin to multiply, it can be hard to mentally keep track of all of t
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches together results in a single branch. This branch is labelled as one of the two, the one that was checked out at merging time. The last commit is the merge operation. The commits on the secondary branch are still reachable from the merged branch, because the merging commit has two parents, namely the two commits that were last on each of the two branches being merged. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
