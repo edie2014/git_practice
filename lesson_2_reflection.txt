@@ -10,6 +10,8 @@ The staging area is not a directory, but rather it seems to me like a virtual ar
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By placing a modified file in the staging area, we allow for comparison between the modified version and the latest version of the document. This way we can clearly see what the changes are, and thus make sure they make up a coherent and cohesive logical unit. Otherwise there would be no way of comparing the new version of the document with the latest commit to the git repository.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
