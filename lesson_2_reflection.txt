@@ -28,3 +28,6 @@ Merging two branches together results in a single branch. This branch is labelle
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+It saves time, and in case of conflict it flags the issue, and presents it to the project owner. On the other hand, this might sometimes still result in changes that are unwanted, or might be better talked over between collaborators.
+
