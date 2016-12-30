@@ -18,3 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 An alternative to Git and GitHub could be a shared folder on a resource on the Cloud such as Google Drive. This would involve much less effort to learn how to use the resource, but it would not offer the full range of version control features that are present in Git/GitHub. A more primitive solution is to just send the document back and forth by e-mail between the collaborators. The main advantage of a version control system like Git is that different versions of the same document need not be saved, as the information about changes is recorded as metadata.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+We may want to have a collaborator look at our suggestions and approve them before changing the official version of our project.
+
