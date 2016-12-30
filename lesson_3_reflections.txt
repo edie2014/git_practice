@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 This allows one to be as up-to-date with the origin (the remote repository) as possible in the absence of a connection to the Internet.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+An alternative to Git and GitHub could be a shared folder on a resource on the Cloud such as Google Drive. This would involve much less effort to learn how to use the resource, but it would not offer the full range of version control features that are present in Git/GitHub. A more primitive solution is to just send the document back and forth by e-mail between the collaborators. The main advantage of a version control system like Git is that different versions of the same document need not be saved, as the information about changes is recorded as metadata.
+
